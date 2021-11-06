@@ -9,3 +9,4 @@ class Scrape():
 
     def scrapeUrl(self):
         self.page = requests.get(self.url)
+
